@@ -1,9 +1,16 @@
 ### William Shakespeare — *Hamlet*, Act III, Scene II (*The Murder of Gonzago*)
 
-In this passage from the *play within the play*, the Player King reflects on the fragility of human intention.  
-He suggests that our purposes, though born with passion, often fade with time — like unripe fruit that eventually falls on its own.  
-The speech captures the tension between **will and fate**, a central theme in *Hamlet*.
 
+<div align="left">
+  <img src="images/shakespeare.png" alt="Shakespeare illustration" width="180" align="left" style="margin-right:15px;"/>
+  <p>
+    In this passage from the <em>play within the play</em>, the Player King reflects on the fragility of human intention.<br>
+    He suggests that our purposes, though born with passion, often fade with time — like unripe fruit that eventually falls on its own.<br>
+    The speech captures the tension between <strong>will and fate</strong>, a central theme in <em>Hamlet</em>.
+  </p>
+</div>
+
+<br clear="all"/>
 
 | Original (English) | Tradução (Português) |
 |--------------------|-----------------------|
