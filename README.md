@@ -12,7 +12,7 @@
 
 <br clear="all"/>
 
-| Original (English) | Tradução (Português) |
+| Original (English) | Translation (Portuguese) |
 |--------------------|-----------------------|
 | **Purpose is but the slave to memory,** | **Intenções são escravas da memória;** |
 | Of violent birth, but poor validity; | São fortes, mas têm vida transitória; |
