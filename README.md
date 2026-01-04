@@ -42,3 +42,79 @@
 | Our thoughts are ours, their ends none of our own. | As idéias são nossas, não os feitos. |
 
 > — *William Shakespeare, Hamlet* [III.ii.]
+
+---
+
+## Gilberto Freyre — *O outro Brasil que vem aí*
+
+> Eu ouço as vozes  
+> eu vejo as cores  
+> eu sinto os passos  
+> de outro Brasil que vem aí  
+> mais tropical  
+> mais fraternal  
+> mais brasileiro.  
+> O mapa desse Brasil em vez das cores dos Estados
+> terá as cores das produções e dos trabalhos.  
+> Os homens desse Brasil em vez das cores das três raças
+> terão as cores das profissões e das regiões.  
+> As mulheres do Brasil em vez de cores boreais
+> terão as cores variamente tropicais.  
+> Todo brasileiro poderá dizer: é assim que eu quero o Brasil,
+> todo brasileiro e não apenas o bacharel ou o doutor
+> o preto, o pardo, o roxo e não apenas o branco e o semibranco.
+> Qualquer brasileiro poderá governar esse Brasil
+> lenhador  
+> lavrador  
+> pescador  
+> vaqueiro  
+> marinheiro  
+> funileiro  
+> carpinteiro  
+> contanto que seja digno do governo do Brasil
+> que tenha olhos para ver pelo Brasil,  
+> ouvidos para ouvir pelo Brasil
+> coragem de morrer pelo Brasil
+> ânimo de viver pelo Brasil 
+> mãos para agir pelo Brasil
+> mãos de escultor que saibam lidar com o barro forte e novo dos Brasis 
+> mãos de engenheiro que lidem com igrejas e tratores  
+>        [europeus e norte-americanos a serviço do Brasil 
+> mãos sem anéis (que os anéis não deixam o homem criar nem trabalhar)
+> mãos livres
+> mãos criadoras
+> mãos fraternais de todas as cores
+> mãos desiguais que trabalhem por um Brasil sem Azeredos,  
+> sem Irineus  
+> sem Maurícios de Lacerda.  
+> Sem mãos de jogadores 
+> nem de especuladores nem de mistificadores.  
+> Mãos todas de trabalhadores, 
+> pretas, brancas, pardas, roxas, morenas, 
+> de artistas
+> de escritores
+> de operários
+> de lavradores
+> de pastores
+> de mães criando filhos
+> de pais ensinando meninos 
+> de padres benzendo afilhados
+> de mestres guiando aprendizes 
+> de irmãos ajudando irmãos mais moços
+> de lavadeiras lavando
+> de pedreiros edificando 
+> de doutores curando
+> de cozinheiras cozinhando
+> de vaqueiros tirando leite de vacas chamadas comadres dos homens.
+> Mãos brasileiras
+> brancas, morenas, pretas, pardas, roxas 
+> tropicais
+> sindicais  
+> fraternais.  
+> Eu ouço as vozes
+> eu vejo as cores 
+> eu sinto os passos  
+> desse Brasil que vem aí.
+
+— *Gilberto Freyre*, **O outro Brasil que vem aí** (1926)  
+Publicado em *Talvez Poesia*, Rio de Janeiro: José Olympio, 1962.
